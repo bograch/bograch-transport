@@ -1,0 +1,23 @@
+{
+  "name": "bograch-transport",
+  "version": "0.0.1",
+  "description": "An abstract class implementing Bograch's transport API.",
+  "main": "./lib",
+  "scripts": {
+    "test": "mocha -R spec test/"
+  },
+  "keywords": [
+    "bograch",
+    "transport"
+  ],
+  "author": "Zoltan Kochan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zkochan/bograch-transport.git"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
+  }
+}
