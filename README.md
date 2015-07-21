@@ -1,9 +1,10 @@
 #bograch-transport
 
-[![Dependency Status](https://david-dm.org/zkochan/bograch-transport/status.svg?style=flat)](https://david-dm.org/zkochan/bograch-transport) [![Build Status](http://img.shields.io/travis/zkochan/bograch-transport.svg?style=flat)](https://travis-ci.org/zkochan/bograch-transport)
+[![Dependency Status](https://david-dm.org/bograch/bograch-transport/status.svg?style=flat)](https://david-dm.org/bograch/bograch-transport)
+[![Build Status](https://travis-ci.org/bograch/bograch-transport.svg?branch=master)](https://travis-ci.org/bograch/bograch-transport)
 
 
-An abstract class implementing [Bograch](https://github.com/zkochan/bograch)'s transport API.
+An abstract class implementing [Bograch](https://github.com/bograch/bograch)'s transport API.
 
 
 ## Install
