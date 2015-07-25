@@ -10,11 +10,18 @@
     "bograch",
     "transport"
   ],
-  "author": "Zoltan Kochan",
+  "author": {
+    "name": "Zoltan Kochan",
+    "email": "zoltan.kochan@gmail.com",
+    "url": "http://kochan.io"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/zkochan/bograch-transport.git"
+    "url": "git://github.com/bograch/bograch-transport.git"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
   },
   "devDependencies": {
     "chai": "^2.2.0",
